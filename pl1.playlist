@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="ch10CardLib.Tests.DeckTests.getCard" /><Add Test="ch10CardLib.Tests.DeckTests.get52Card" /></Playlist>
